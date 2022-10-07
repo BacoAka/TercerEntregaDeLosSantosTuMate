@@ -1,0 +1,9 @@
+Agregue el meta description:
+ <meta name="description" content="Sitio web de compra de mates"> 
+   
+Agregue el meta keywords:
+ <meta name="keywords" content="Compra, Mates, Yerba, Bombillas, Termos "> 
+
+
+
+PROBE DE MIL MANERAS EL MIXIN PERO NO PUDE ENCONTRARLE LA VUELTA. lO COMPILA BIEN PERO NO ME LO APLICA.
